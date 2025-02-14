@@ -7,7 +7,8 @@ var color = "blue";
 alert("My favorite color is " + color);
 
 /* Prompt */
-
+var color = prompt ("What is your favorite color?");
+alert (color + " is a nice color ");
 /* Prompt with Conditional */
 
 
@@ -35,6 +36,9 @@ alert (aaaaa + " is " + age + " years old");
 
 /* Prompt */
 
+var flavor = prompt("what is your favorite ice cream flavor?");
+var scoops = prompt ("how many scoops of that do you want?")
+alert ("you want " + scoops + " of " + flavor);
 
 /* Prompt with Conditional */
 
